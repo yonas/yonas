@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonas&theme=transparent)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonas&theme=transparent) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonas&theme=transparent&utcOffset=2)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yonas&theme=transparent&utcOffset=0)
 
 </div>
